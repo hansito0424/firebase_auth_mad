@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120868828710",
+    "project_id": "trace-app-custodio",
+    "storage_bucket": "trace-app-custodio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120868828710:android:85427e4db26496912518e7",
+        "android_client_info": {
+          "package_name": "com.example.trace_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADnRoTimQWo1X6pYXG_xwHcaGO81JQd5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
